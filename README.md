@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Rany 👋
 
-<!--
-**Ranywaell/Ranywaell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in **Networking**, **Network Automation**, and **Cybersecurity**.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Building network labs with OSPF and Inter-VLAN routing
+- Writing Python tools for network fault simulation and image forensics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **OSPF_Fault_Engine**: simulating and analyzing OSPF faults
+- **Elsewedy University Library Management System**: a system for managing a university library
+- **Multi-VLAN Network with OSPF**: network design and routing lab
+
+## Skills
+Python · Shell · OSPF · VLANs · Cisco Packet Tracer · Linux
